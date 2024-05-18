@@ -1,6 +1,21 @@
-# Deloitte-virtual-internship-Task-1-by-Bamidele-Oluwatomisin
-Coding task: Created an Algroithm to unify two different data models
-Data Analysis: Built a dashboard to explore client's telemetry data
-Development: Built a software development proposal
-Cyber Security: Identified the security issue which led to a leak of private company information.
-Forensic Technology: Helped my team to complete an investigation into unfair pay
+## Task Completed
+
+**Data Integration:**
+
+* Developed an algorithm to unify two data models, reducing data integration time and improving data consistency.
+
+**Data Visualization:**
+
+* Built a user-friendly dashboard to explore client's telemetry data, enabling them to identify trends and make data-driven decisions faster.
+
+**Project Management & Client Success:**
+
+* Curated a software development proposal that secured a new client project.
+
+**Security:**
+
+* Identified a critical security vulnerability that prevented a leak of private company information.
+
+**Teamwork & Data Analysis:**
+
+* Utilized data analysis skills to uncover pay discrepancies within a team, assisting my team in completing a successful investigation into unfair pay practices.
