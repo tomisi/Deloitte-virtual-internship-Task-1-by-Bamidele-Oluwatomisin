@@ -1,3 +1,5 @@
+This project was completed as part of the Deloitte x Forage virtual internship
+
 ## Task Completed
 
 **Data Integration:**
